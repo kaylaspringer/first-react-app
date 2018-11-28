@@ -23,6 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 workspace.xml
-.idea
+.idea/*
 *.xml
 *.iml
